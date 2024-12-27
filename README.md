@@ -7,8 +7,18 @@ Combining civil engineering expertise with AI to revolutionize construction indu
 ### 🔧 Technical Skills
 - **Programming:** Python, SQL
 - **Machine Learning:** scikit-learn, TensorFlow
-- **Civil Engineering:** [Your Specific Skills]
-- **Tools & Technologies:** AutoCAD, [Other Relevant Tools]
+- **Civil Engineering:** Structural analysis and design
+Construction project management
+Load calculations and structural integrity assessments
+Scheduling, budgeting, and resource allocation
+Data analysis for structural safety
+Compliance with building codes and standards
+Construction methods and materials expertise
+On-site activity coordination
+Multidisciplinary team collaboration
+Technical documentation and reporting
+Problem-solving and critical thinking
+- **Tools & Technologies:** AutoCAD, STAAD Pro, Abaqus, Revit
 
 ### 🚀 Featured Projects
 
