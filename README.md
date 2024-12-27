@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Danial]
+# Hi there! 👋 I'm Danial
 
 ## 🎓 Civil Engineer | 🤖 AI Developer | 🏗️ Construction Technology Enthusiast
 
