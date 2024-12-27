@@ -28,10 +28,10 @@ AI-powered solution for accurate construction cost estimation
 - Feature Importance Analysis
 - Interactive Visualizations
 
-[Add more projects as you create them]
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dania1619&show_icons=true&theme=radical)
+
+https://github-readme-stats.vercel.app/api?username=Dania1619&show_icons=true&theme=radical
 
 ### 🌱 Currently Learning
 - Advanced Machine Learning Techniques
